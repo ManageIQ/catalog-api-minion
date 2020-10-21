@@ -8,7 +8,7 @@
 
 ## Usage
 
-TODO: Write usage instructions here
+This project has been deprecated and is no longer in use. It has been replaced with various listeners stemming from [KafkaListener](https://github.com/RedHatInsights/catalog-api/blob/master/lib/kafka_listener.rb) directly in the catalog project.
 
 ## Development
 
